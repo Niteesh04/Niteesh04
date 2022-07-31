@@ -2,7 +2,6 @@
  
 - 👀 I’m interested in cycling, jogging and programming...
 - 🌱 I’m currently programming on platforms like JavaScript, Python, JSX...
-- 📫 If you want to collaborate mail me on niteeshsingh2007@gmail.com
 - 👋 Bye..
 -  </>
 <!---
